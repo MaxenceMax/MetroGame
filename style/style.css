@@ -8,17 +8,80 @@ and open the template in the editor.
     Author     : max
 */
 
-body {font-family:Arial, Helvetica, sans-serif;font-size:12px;color:#0078a1;margin:0px;padding:0;
-/*-webkit-background-size: cover;
--moz-background-size: cover; 
--o-background-size: cover; 
-background-size: cover; */}
-.Tableau {width:380px;  margin-top: 30px; float:left; border:1px solid #12abce; margin-right:-1px;padding: 18px;}
-.Tableau img { float:left;margin-right:8px; border:solid #12abce 1px;}
-.Tableau p { float:left; width: 250px; text-align:justify; margin:0;}
+body,td,th {font-family: Verdana, Geneva, sans-serif; font-size: 14px; color: #27231e;}
+body {background: url(../images/fond.png) no-repeat center top #fff; margin:0px;}
+body.Granits {background: url(../images/fond2.png) repeat-x #fff;}
+img { border: solid 4px #dbddd4;}
+a { text-decoration:none;}
+#Global {width:1020px; margin:0 auto;}
+#Logo { background:url(../images/Logo.png) no-repeat; height:83px;width:420px; margin-top:50px;margin-left:280px; }
+#Logo a { display:block;height:83px;width:250px; z-index:999;}
+h2 { color:#003b81; font-size:18px; font-weight:normal;}
 
-.menu{border:1px solid #12abce;position: absolute; background-color: white;text-align: center; visibility: hidden;}
-.liste{list-style: none;padding: 0px;width: 100px;}
+#ColonneGauche {float:left; clear:both; margin-top:-8px;width:120px}
+#Home {float:left; background:url(../images/home.png) no-repeat; height:25px;width:80px; margin-bottom:5px;}
+#Home a {color:#27231e; display:block; height:15px; width:53px; padding-left: 30px; padding-top:10px;}
+#Home:hover {background:url(../images/home_hover.png) no-repeat;}
+#Contact {float:left; background:url(../images/contact.png) no-repeat; height:25px;width:100px; margin-bottom:5px; margin-left:18px;}
+#Contact a {color:#27231e;display:block;height:15px; width:100px; padding-left: 30px; padding-top:10px;}
+#Contact:hover {background:url(../images/contact_hover.png) no-repeat;}
+#Menu {height: 100%;width: 240px;float:left;clear:both;background:#fff;}
+.navigation {margin:0;padding: 0;list-style:none;color: #fff;width: 240px;} 
+.navigation li.toggleSubMenuL {background:#27231e;width:240px; margin-bottom:1px;}
+.navigation li.toggleSubMenuL a {color:#fff; text-decoration:none; display:block; width:240px;font-family: Verdana, Geneva, sans-serif;font-size: 15px;padding: 8px 18px;}
+.navigation li.toggleSubMenuL a:hover, .navigation li.toggleSubMenuL a.active {color:#fff;font-weight:bold;} 
+.navigation .subMenu {list-style:none;font-size:14px;margin:0;padding:0;background:#4d4e46;} 
+.navigation ul.subMenu a {background: none;padding:6px 15px;color:#fff;text-align:left;width:210px;font-size:12px;}
+.navigation ul.subMenu a:hover,.navigation ul.subMenu a.active {background: #a5c800;font-weight:normal;}
+.subMenu ul.Sous-sous-menu {list-style:none;}
+.subMenu ul.Sous-sous-menu a {width:208px;}
+.Sous-sous-menu ul:hover {font-weight: bold; background-color: none;}
 
-#infobulle{border:1px solid #12abce;height:20px; position: absolute;visibility: hidden;font-size: 11px;background: white;}
-.divSimple {clear: both;}
+#Contenu {width:870px;height:400px; float:left; margin-left:10px;margin-top:20px; background:#fff; border:1px solid #c8c8c8;}
+#ImgAccueil {width:750px;height:400px; background:url(../images/ImgAccueil.png);}
+#Plus {height:68px;width:46px; margin-top:-73px; float:right; margin-right:8px;}
+#Plus a {height:68px;width:46px; display:block;background:url(../images/Plus.png);}
+#Plus a:hover {background:url(../images/Plus_hover.png)}
+#Ombre {background:url(../images/Ombre.png) no-repeat top center; clear:both; height:23px; width:720px;float:left;margin-left:250px;}
+
+#Barre {clear:both;background:#777570; text-align:justify;padding-bottom:15px;}
+#BarreInterne {background:#777570; min-height: 200px; margin-top:445px;}
+#TexteAccueil {width:750px; color:#fff; margin:0 auto; padding: 1px 0px 10px 230px;}
+h2 {color:#a5c800; font-size:18px; font-style:normal; font-weight:normal; background:url(../images/pointille.png) no-repeat center left; padding-left:30px;}
+p {padding-left:30px; text-align:justify}
+#Footer {clear:both; height:50px; width:1000px; margin:20px auto;}
+#Signature {  height:40px; width:40px; float:left; margin-left:220px; margin-top:-15px;}
+#Signature a { display:block; height:40px;width:40px;background:url(../images/logo_overscan.png) no-repeat 0 0;}
+#Signature a:hover {background:url(../images/logo_overscan.png) no-repeat 0 -40px;}
+#MenuFooter { float:right; margin-left: 400px;color:#66685f;}
+#MenuFooter a {color:#66685f;}
+#MenuFooter a:hover {color:#a5c800;}
+
+/*-- INTERNE --*/
+#ContenuInterne {width:750px; min-height:600px; float:left; margin-left:10px;margin-top:20px; background:#fff; border:1px solid #c8c8c8;}
+#Header {background:url(../images/pdd.png) no-repeat; float:left; width:100%; height:100px;}
+#Header2 {background:url(../images/sancy.png) no-repeat; float:left; width:100%; height:100px;}
+#ZoneContenu {min-height:645px;width:714px; border:solid 3px #dedede; float:left;clear:both; background:#FFF; margin-bottom:20px;} 
+#ImgInterne1 {width:120px; height:421px; float:left; background:url(../images/PhotoInterne1.png) no-repeat; margin:3px;}
+#Page {float:left; width: 610px;min-height:100px; margin-top:3px; text-align:justify}
+#Page li { list-style:none; background:url(../../images/pointille.png) no-repeat left 7px;padding-left:30px;}
+#Fil {background: #53544a; height:20px; width:610px; color:#fff; padding-top:5px; padding-left: 10px;margin-bottom:20px;}
+#Fil a {color: #fff;}
+
+.imageDiapo{
+    width: 123px;
+    height: 398px;
+    border:solid 1px #FFF;
+}
+
+.imageDiapoContainer{
+    float: left;
+}
+
+.clearfix{
+    clear:both;
+    content:".";
+    display: block;
+    height: 1px;
+    visibility: hidden;
+}
