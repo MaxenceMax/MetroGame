@@ -5,19 +5,12 @@
 <body>
     <div id="Global">
         <div id="Logo">
-        <a href="/"></a>
+            <a href="/"></a>
         </div>
-        <div id="ColonneGauche">
-            <div id="Home">
-                <a title="Retour Accueil" href="/">Accueil</a>
-            </div>
-            <div id="Menu">
-                <ul class="navigation"></ul>
-            </div>
-        </div>   
-            <div id="Contenu">
-            </div>
-        <div id="Ombre"></div>
+        <div id="Contenu">
+            <div id="plan"></div>
+            <div id="questionnaire">Question :<br>Quel est le nom de cette station ?<br><br><input name="reponse"></div>
+        </div>
     </div>
     <div id="BarreInterne">
         <div id="TexteAccueil">
