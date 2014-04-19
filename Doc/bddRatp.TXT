@@ -1,0 +1,423 @@
+ID;NOM;X;Y;TYPE
+1975;abbesses;3933;2208;metro
+1981;alésia;3942;6387;metro
+1978;alexandre-dumas;6230;4281;metro
+1980;alma-marceau;2166;4057;metro
+1982;anatole-france;2055;1952;metro
+11037;antony;3580;7662;metro
+11037;antony;3464;4955;rer
+1984;anvers;4228;2375;metro
+1986;argentine;1785;3153;metro
+1988;arts-et-métiers;4958;3768;metro
+225437;asnieres-gennevilliers les courtilles;1988;984;metro
+1989;assemblée nationale;2769;4500;metro
+1992;aubervilliers pantin (4 chemins);6065;1689;metro
+1994;avenue emile-zola;2022;5301;metro
+1995;avron;6254;4545;metro
+1997;balard;1749;6345;metro
+1999;barbès-rochech;4583;2388;metro
+50622;basilique de saint-denis;4653;888;metro
+2000;bastille;5165;4560;metro
+2003;bel-air;6410;5268;metro
+2004;belleville;5654;3117;metro
+1938;bérault;7037;5123;metro
+2005;bercy;5900;5766;metro
+51020;bibliotheque-francois mitterrand;5894;6204;metro
+51020;bibliotheque-francois mitterrand;4380;3955;rer
+2006;billancourt;837;6384;metro
+2007;bir-hakeim (grenelle);1740;4845;metro
+2009;blanche;3531;2382;metro
+2010;bobigny-pablo-picasso;7121;1806;metro
+2011;bobigny-pantin (raymond queneau);6911;2007;metro
+2012;boissière;1506;3876;metro
+2014;bolivar;5786;2700;metro
+2015;bonne nouvelle;4484;3420;metro
+2016;botzaris;6257;2766;metro
+2017;boucicaut;2130;5976;metro
+2018;boulogne-jean-jaurès;714;5739;metro
+2019;boulogne pont de saint-cloud;567;5895;metro
+1930;bourse;3857;3840;metro
+1933;bréguet-sabin;5345;4308;metro
+1931;brochant;2976;1971;metro
+1936;buttes-chaumont;6121;2766;metro
+1937;buzenval;6593;4623;metro
+1939;cadet;4050;2922;metro
+1940;cambronne;2577;5349;metro
+1941;campo-formio;5045;5868;metro
+1942;cardinal-lemoine;4475;5196;metro
+228266;carrefour-pleyel;3696;1104;metro
+1944;censier-daubenton;4550;5682;metro
+1949;champs-elysées-clémenceau;2589;3957;metro
+1950;chardon-lagache;1221;5685;metro
+1951;charenton-ecoles;6644;6273;metro
+1953;charles de gaulle-etoile;2013;3315;metro
+1952;charles michels;1902;5424;metro
+1955;charonne;6035;4380;metro
+1962;château de vincennes;7136;5223;metro
+1963;château landon;5243;2748;metro
+1960;château rouge;4374;2166;metro
+1964;châtelet;4158;4251;metro
+1968;châtillon montrouge;2886;7161;metro
+1958;chemin vert;5129;4348;metro
+1959;chevaleret;5387;6147;metro
+1969;cité;4109;4464;metro
+54244;cluny-la sorbonne;4148;4927;metro
+1972;colonel fabien;5660;2847;metro
+1973;commerce;2211;5523;metro
+1885;concorde;2756;4115;metro
+1887;convention;2452;6267;metro
+1888;corentin-cariou;5732;2019;metro
+1889;corentin-celton;1996;6738;metro
+1890;corvisart;4672;6155;metro
+1892;courcelles;2352;2967;metro
+1893;couronnes;5828;3336;metro
+50055;cour saint-emilion;6050;400;metro
+1898;créteil-préfecture (hôtel de ville);6956;7155;metro
+1899;créteil-université;6956;7017;metro
+1894;crimée;5621;2133;metro
+1896;croix-de-chavaux (jacques duclos);7028;4179;metro
+1900;danube;6482;2568;metro
+1901;daumesnil (félix eboué);6254;5418;metro
+1902;denfert-rochereau;4107;5919;metro
+1906;dugommier;6074;5601;metro
+1907;dupleix;1923;5037;metro
+1908;duroc;2964;5349;metro
+1909;ecole militaire;2202;4863;metro
+23674;ecole vétérinaire de maisons-alfort;6818;6444;metro
+1910;edgar-quinet;3473;5676;metro
+1912;eglise de pantin;6770;2154;metro
+1913;esplanade de la défense;1080;2463;metro
+1914;etienne marcel;4238;3918;metro
+1915;europe;2910;2832;metro
+1916;exelmans;1083;5889;metro
+1917;faidherbe-chaligny;5696;4857;metro
+1918;falguière;3144;5595;metro
+1925;félix faure;2205;5739;metro
+1919;filles du calvaire;5126;3906;metro
+1924;franklin-roosevelt;2424;3801;metro
+2021;funiculaire gare basse;4158;2310;metro
+2022;funiculaire gare haute;4158;2217;metro
+22443;gabriel-péri;2223;1218;metro
+1927;gaité;3486;5922;metro
+1928;gallieni (parc de bagnolet);7121;3807;metro
+1929;gambetta;6551;3792;metro
+1839;gare de lyon;5386;5159;metro
+1839;gare de lyon;4256;3551;rer
+1842;gare du nord;4836;2548;metro
+1842;gare du nord;3972;2751;rer
+1844;garibaldi;3316;1496;metro
+1846;george v;2212;3603;metro
+1848;glacière;4416;6131;metro
+1849;goncourt (hôpital saint-louis);5456;3323;metro
+1671;grands boulevards;4088;3403;metro
+1851;guy-môquet;3140;1928;metro
+1852;havre-caumartin;3236;3407;metro
+1853;hoche;6572;2260;metro
+1855;hôtel de ville;4556;4219;metro
+1858;iéna;1816;4199;metro
+1857;invalides;2580;4415;metro
+1859;jacques-bonsergent;5092;3231;metro
+1860;jasmin;1084;5175;metro
+1861;jaurès;5620;2567;metro
+1862;javel-andré-citroen;1668;5487;metro
+1862;javel-andré-citroen;3100;3803;rer
+1864;jourdain;6220;2983;metro
+1865;jules joffrin;4172;2036;metro
+1866;jussieu;4712;5279;metro
+1867;kléber;1744;3575;metro
+1868;la chapelle;4980;2375;metro
+1869;la courneuve-8-mai-1945;6256;1216;metro
+1850;la défense (grande arche);911;2237;metro
+1850;la défense (grande arche);2844;2783;rer
+1872;la fourche;3144;2176;metro
+1874;la motte-picquet-grenelle;2200;5211;metro
+1876;la muette;1088;4543;metro
+54166;la tour-maubourg;2396;4595;metro
+1882;laumière;6012;2472;metro
+1798;ledru-rollin;5356;4715;metro
+1793;le kremlin-bicêtre;4836;6658;metro
+1795;le peletier;3908;3051;metro
+225436;les agnettes;2112;1100;metro
+1800;les gobelins;4708;5895;metro
+1801;les halles;4263;4099;metro
+1801;les halles;4004;3319;rer
+1803;liberté;6456;6095;metro
+1804;liège;3144;2667;metro
+1806;louis blanc;5404;2627;metro
+1807;louise michel;2156;2076;metro
+1808;lourmel;1968;6135;metro
+1809;louvre-rivoli;3652;4211;metro
+1812;mabillon;3692;4927;metro
+1813;madeleine;2768;3823;metro
+1816;mairie de clichy;2520;1520;metro
+1817;mairie de montreuil;7140;4075;metro
+1818;mairie de saint-ouen;3516;1296;metro
+1819;mairie des lilas;7144;2747;metro
+1820;maison blanche;4836;6474;metro
+21583;maisons-alfort-les juilliottes;6953;6732;metro
+21582;maisons-alfort-stade;7205;6588;metro
+22442;malakoff-plateau de vanves;2883;6702;metro
+22441;malakoff-rue etienne dolet;2877;6927;metro
+1826;malesherbes;2580;2507;metro
+55372;maraichers;6700;4507;metro
+1828;marcadet-poissonniers;4375;2008;metro
+1829;marcel sembat;972;6254;metro
+1831;marx-dormoy;5004;1924;metro
+1834;maubert-mutualité;4336;5067;metro
+1754;ménilmontant;6028;3535;metro
+1836;michel-ange-auteuil;1088;5487;metro
+1837;michel-ange-molitor;1088;5687;metro
+1835;michel bizot;6384;5543;metro
+1746;mirabeau;1440;5615;metro
+1747;miromesnil;2824;3429;metro
+1749;monceau;2524;2799;metro
+1750;montgallet;6056;5219;metro
+1751;montparnasse-bienvenue;3508;5595;metro
+1753;mouton-duvernet;4064;6119;metro
+1758;nation;6292;4827;metro
+1761;nationale;5132;6138;metro
+1767;notre-dame de lorette;3856;2947;metro
+1768;notre-dame des champs;3636;5435;metro
+1769;oberkampf;5376;3687;metro
+1770;odéon;3940;4911;metro
+171507;olympiades;5472;6334;metro
+1771;opéra;3384;3547;metro
+11038;orly-ouest;3956;5211;rer
+11039;orly-sud;4136;5395;rer
+1773;ourcq;6008;2235;metro
+1774;palais-royal (musée du louvre);3392;4207;metro
+1779;parmentier;5832;3687;metro
+1780;passy;1512;4619;metro
+1781;pasteur;3064;5663;metro
+1782;pelleport;6748;3503;metro
+1740;péreire;2384;2299;metro
+1740;péreire;3280;2818;rer
+1741;père-lachaise;6220;3795;metro
+1783;pernéty;3376;6102;metro
+1784;philippe auguste;6224;4011;metro
+1785;picpus;6540;5095;metro
+1786;pierre et marie curie;5744;6682;metro
+1787;pigalle;3924;2371;metro
+1790;place de clichy;3140;2371;metro
+1792;place des fêtes;6476;2971;metro
+1788;place monge (jardin des plantes);4548;5459;metro
+1705;plaisance;3184;6275;metro
+397629;pointe du lac;6952;7290;metro
+1706;poissonnière;4428;2859;metro
+1708;pont de levallois-bécon;1952;1884;metro
+1709;pont de neuilly;1228;2603;metro
+1710;pont de sèvres;708;6498;metro
+1711;pont marie (cité des arts);4588;4499;metro
+1712;pont neuf;3876;4239;metro
+1714;porte dauphine (maréchal de lattre de tassigny);1308;3383;metro
+1721;porte de bagnolet;6868;3791;metro
+1722;porte de champerret;2700;2623;metro
+1723;porte de charenton;6312;5855;metro
+1724;porte de choisy;5316;6610;metro
+1725;porte de clichy;2812;1795;metro
+1725;porte de clichy;3428;2683;rer
+1726;porte de clignancourt;4136;1696;metro
+1734;porte de la chapelle;5008;1727;metro
+1735;porte de la villette;5856;1893;metro
+1727;porte de montreuil;6804;4387;metro
+1728;porte de pantin;6284;2267;metro
+1729;porte de saint-cloud;1088;6079;metro
+1730;porte de saint-ouen;3132;1712;metro
+1736;porte des lilas;6936;2952;metro
+1731;porte de vanves;2980;6498;metro
+1732;porte de versailles;2304;6419;metro
+1733;porte de vincennes;6664;4859;metro
+1715;porte dorée;6468;5695;metro
+1716;porte maillot;1544;2923;metro
+1737;pré-saint-gervais;6662;2707;metro
+1738;pyramides;3384;3871;metro
+50047;pyramides;3390;3867;metro
+55330;pyrenees;5916;2999;metro
+1742;quai de la gare;5636;6030;metro
+1743;quai de la rapée;5179;5107;metro
+1744;quatre septembre;3580;3739;metro
+1745;rambuteau;4748;4007;metro
+1659;ranelagh;1088;4859;metro
+1660;raspail;3948;5727;metro
+1676;réaumur-sébastopol;2360;2855;metro
+1661;rennes;3456;5191;metro
+1679;république;4508;3851;metro
+1662;reuilly-diderot;5872;3326;metro
+1664;richard-lenoir;5504;4131;metro
+1665;richelieu-drouot;3800;3407;metro
+1666;riquet;5492;2252;metro
+1667;robespierre;6916;4283;metro
+1670;rome;2896;2431;metro
+1672;rue de la pompe (avenue georges mandel);1152;4199;metro
+1673;rue des boulets;1151;4199;metro
+1674;rue du bac;6160;4507;metro
+1693;rue saint-maur;6000;3795;metro
+1680;saint-ambroise;5224;3521;metro
+1681;saint-augustin;5732;4087;metro
+22439;saint-denis-porte de paris;4149;990;metro
+50399;saint-denis-universite;4877;669;metro
+1684;saint-fargeau;2940;3279;metro
+1685;saint-francois-xavier;6924;3243;metro
+1686;saint-georges;2700;3243;metro
+1687;saint-germain des prés;2700;5091;metro
+1688;saint-jacques;3952;2659;metro
+1689;saint-lazare;3612;4875;metro
+1690;saint-mandé;6904;4991;metro
+1691;saint-marcel;5160;5691;metro
+1694;saint-michel;4000;4743;metro
+1695;saint-paul (le marais);4820;4471;metro
+1696;saint-philippe du roule;2664;3563;metro
+1697;saint-placide;3528;5351;metro
+1699;saint-sébastien-froissart;5128;4107;metro
+1698;saint-sulpice;3528;5087;metro
+1631;ségur;2684;5411;metro
+1702;sentier;4132;3831;metro
+1632;sèvres-babylone;3284;5015;metro
+1633;sèvres-lecourbe;2764;5547;metro
+1621;simplon;4260;1824;metro
+1622;solférino;2932;4667;metro
+1627;stalingrad;5433;2436;metro
+1628;strasbourg-saint-denis;4690;3414;metro
+1630;sully-morland;4808;4723;metro
+55329;telegraphe;6744;2999;metro
+1634;temple;5084;3571;metro
+1635;ternes;5084;3571;metro
+1636;tolbiac;4832;6307;metro
+1639;trocadéro;1480;4199;metro
+1640;tuileries;3060;4199;metro
+1643;vaneau;3116;5179;metro
+1644;varenne;2588;4707;metro
+1645;vaugirard (adolphe chérioux);2648;6074;metro
+1646;vavin;3756;5627;metro
+1648;victor hugo;1588;3655;metro
+1650;villejuif-léo lagrange;4836;6994;metro
+1649;villejuif-louis aragon;4836;7154;metro
+1651;villejuif-paul vaillant couturier (hôpital paul brousse);4836;6994;metro
+1654;villiers;2700;2623;metro
+1656;volontaires;2836;5883;metro
+1657;voltaire (léon blum);5884;4239;metro
+1658;wagram;2476;2400;metro
+1983;antony;3567;7656;metro
+1983;antony;3483;4952;rer
+1985;arcueil-cachan;4058;7116;metro
+1985;arcueil-cachan;3800;4328;rer
+1990;auber;3231;3603;metro
+1990;auber;3480;3071;rer
+1996;bagneux;3897;7278;metro
+1996;bagneux;3800;4418;rer
+2013;boissy-saint-léger;5780;4712;rer
+2020;bourg-la-reine;3758;7416;metro
+2020;bourg-la-reine;3798;4523;rer
+1932;bry-sur-marne;5783;3398;rer
+1934;bures-sur-yvette;2007;5840;rer
+1935;bussy-saint-georges;7370;3221;rer
+1954;charles de gaulle-etoile;1950;3378;metro
+1956;chatou-croissy;2060;3047;rer
+1970;cité universitaire;4108;6487;metro
+1970;cité universitaire;3800;4070;rer
+1891;courcelle-sur-yvette;1732;6174;rer
+1904;denfert-rochereau;4058;576;metro
+1920;fontaine-michalon;3375;5066;rer
+1921;fontenay-aux-roses;3249;4571;rer
+1922;fontenay-sous-bois;5303;3650;rer
+1845;gentilly;4108;6726;metro
+1845;gentilly;3812;4163;rer
+1847;gif-sur-yvette;1744;6172;rer
+1863;joinville-le-pont;5304;3967;rer
+1870;la croix-de-berny;3604;4835;rer
+1871;la défense (grande arche);911;2237;metro
+1871;la défense (grande arche);2844;2783;rer
+1873;la hacquinière;1868;5971;rer
+1880;laplace;4107;6930;metro
+1880;laplace;3800;4239;rer
+1878;la varenne-chennevières;5996;4395;metro
+1884;le guichet;2408;5747;rer
+1794;le parc de saint-maur;5552;4207;metro
+1799;les baconnets;3476;4951;rer
+15524;le vésinet-centre;1868;2955;rer
+15523;le vésinet-le pecq;1756;2847;rer
+1805;lognes;7040;3479;rer
+1810;lozère;2580;5739;rer
+1811;luxembourg;4108;5195;metro
+1811;luxembourg;3800;3811;rer
+1830;marne-la-vallée chessy;7612;2975;metro
+1755;nanterre-préfecture;2675;2631;metro
+1756;nanterre-université;2309;2631;metro
+1757;nanterre-ville;2472;2751;metro
+1759;nation;6416;4703;metro
+1762;neuilly-plaisance;5540;3335;rer
+1763;nogent-sur-marne;5300;3803;rer
+1764;noisiel;6684;3487;rer
+1765;noisy-champs;6320;3483;rer
+1772;orsay-ville;2188;5763;rer
+1775;palaiseau;3476;5807;rer
+1776;palaiseau villebon;2739;5689;rer
+1778;parc de sceaux;3720;4719;rer
+1713;port royal;4104;5575;metro
+1713;port royal;3800;3887;rer
+1668;robinson;2948;4711;rer
+1675;rueil-malmaison;3116;4851;metro
+15522;saint-germain-en-laye;1628;2715;rer
+1624;saint-maur créteil;5372;4131;metro
+1626;saint-rémy-lès-chevreuse;1315;6127;metro
+1701;sceaux;3548;4571;rer
+1629;sucy bonneuil;5776;4543;rer
+1637;torcy;7244;3351;rer
+1655;vincennes;7304;4819;metro
+1655;vincennes;5004;3742;rer
+1832;massy-palaiseau;2980;5515;rer
+5604;saint-michel notre-dame;2940;4410;metro
+5604;saint-michel notre-dame;3897;3473;rer
+1967;chatelet-les halles;4319;4116;metro
+1967;chatelet-les halles;4014;3320;rer
+1843;gare du nord;4996;2555;metro
+1843;gare du nord;4064;2751;rer
+1840;gare de lyon;5386;5159;metro
+1840;gare de lyon;4256;3551;rer
+142785;auguste delaune;7317;1586;metro
+136234;balard;1832;6315;metro
+57295;belvedere;308;3059;metro
+136238;brancion;2660;6550;metro
+23877;brimborion;675;6858;metro
+142808;cimetiere de saint-denis;4920;848;metro
+136244;cite universitaire;4152;6495;metro
+142805;cosmonautes;5480;852;metro
+142806;cosmonautes;5480;852;metro
+142801;danton;6208;1104;metro
+136235;desnouettes;2004;6311;metro
+136240;didot;3288;6558;metro
+142794;drancy-avenir;6420;1308;metro
+142798;drancy-avenir;6420;1308;metro
+142796;gaston roulaud;6556;1452;metro
+142792;gaston roulaud;6556;1452;metro
+136237;georges brassens;2392;6550;metro
+302757;henri farman-porte de seine;1664;6542;metro
+142793;hopital avicenne;6480;1372;metro
+142797;hopital avicenne;6480;1372;metro
+142807;hopital delafontaine;5196;848;metro
+142803;hotel de ville de la courneuve;6008;904;metro
+136241;jean moulin;3608;6550;metro
+142786;jean rostand;7248;1808;metro
+142790;la ferme;6692;1592;metro
+57293;les coteaux;308;4603;metro
+57292;les milons;308;5307;metro
+23879;les moulineaux;1230;6900;metro
+142789;liberation;6768;1660;metro
+142810;marche de saint-denis;4376;740;metro
+142799;maurice lachatre;6352;1236;metro
+142795;maurice lachatre;6352;1236;metro
+23878;meudon sur seine;930;6966;metro
+136243;montsouris;3984;6550;metro
+23876;musee de sevres;525;6708;metro
+142782;noisy-le-sec rer;7356;2220;metro
+142783;petit noisy;7364;2095;metro
+142784;pont de bondy;7360;1979;metro
+136248;porte de choisy;5316;6550;metro
+136239;porte de vanves;2980;6550;metro
+302754;porte de versailles-parc des expositions;2176;6495;metro
+136246;poterne des peupliers;4612;6550;metro
+23870;puteaux;441;2670;metro
+142802;stade geo andre;6136;1036;metro
+57294;suresnes-longchamp;308;3611;metro
+302756;suzanne lenglen;1828;6546;metro
+142811;theatre gerard philipe;4096;740;metro
