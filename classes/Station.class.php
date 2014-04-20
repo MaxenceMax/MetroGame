@@ -1,11 +1,7 @@
 <?php
 
 
-class Station {
-    public $id;
-    public $name;
-    public $x;
-    public $y;
+class Station{
     public $type;
     
     public function __construct($id, $name, $x, $y, $type) {

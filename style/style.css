@@ -37,9 +37,9 @@ p {padding-left:30px; text-align:justify}
 
 
 /*-- Affichage de la carte du métro et gestion du questionnaire--*/
-#plan {width: 595;height: 600px;background: url(../images/plan-metro.jpg) no-repeat;float: left}
+#plan {width: 595;height: 600px;background: url(../images/plan-metro.jpg) no-repeat;float: left;position: relative}
 #questionnaire{width: 350px;height: 100%;padding: 10px 10px 10px 10px;float: right;position:static;border-left:1px solid #c8c8c8; }
-
+#stationPick{font-size: 40px;position: relative;}
 
 .imageDiapo{width: 123px;height: 398px;border:solid 1px #FFF;}
 .imageDiapoContainer{float: left;}

@@ -1,0 +1,10 @@
+142799;maurice lachatre;6352;1236;metro
+2012;boissière;1506;3876;metro
+1999;barbès-rochech;4583;2388;metro
+1715;porte dorée;6468;5695;metro
+1939;cadet;4050;2922;metro
+1885;concorde;2756;4115;metro
+1721;porte de bagnolet;6868;3791;metro
+57293;les coteaux;308;4603;metro
+1773;ourcq;6008;2235;metro
+1952;charles michels;1902;5424;metro
